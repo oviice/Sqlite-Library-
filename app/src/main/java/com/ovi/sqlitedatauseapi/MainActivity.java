@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    // Delete
+    // Delete Data
     int deleteInt = 0;
 
     public void deleteData(View view) {
